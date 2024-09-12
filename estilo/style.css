@@ -1,6 +1,6 @@
 @charset "UTF-8"
 
-* {
+ * {
     margin: 0px;
     padding: 0px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -33,4 +33,13 @@ section#telefone {
     width: 311px;
     background-color: blue;
     background: url('../imagens/frame-iphone.png') no-repeat;
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    width: 269px;
+    height: 471px;
+
 }
